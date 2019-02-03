@@ -2,9 +2,10 @@
   "dependencies": {
     "@cloudant/cloudant": "^3.0.2",
     "ibm_db": "^2.5.0",
+    "oracledb": "^3.1.1",
     "sails-db2": "^1.0.0",
     "sql-to-json": "^1.5.0",
     "sqlite3": "^4.0.6",
-    "waterline": "^0.11.12"
+    "waterline": "^0.13.6"
   }
 }
