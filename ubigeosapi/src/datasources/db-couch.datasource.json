@@ -1,0 +1,9 @@
+{
+  "name": "dbCouch",
+  "connector": "cloudant",
+  "url": "https://a6305753-8857-48ab-8ee2-f7dbf616d804-bluemix:ba1b753332d777136876c7eb9a6c5af8218a0390fbe584aef0429b7e9b21a1b5@a6305753-8857-48ab-8ee2-f7dbf616d804-bluemix.cloudantnosqldb.appdomain.cloud",
+  "database": "ubigeos",
+  "username": "",
+  "password": "",
+  "modelIndex": ""
+}

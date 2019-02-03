@@ -1,0 +1,11 @@
+{
+  "name": "dbubigeo",
+  "connector": "db2",
+  "dsn": "DATABASE=BLUDB;HOSTNAME=dashdb-txn-sbox-yp-dal09-03.services.dal.bluemix.net;PORT=50000;PROTOCOL=TCPIP;UID=pks49073;PWD=l2bp4gppn+jl59sf",
+  "host": "dashdb-txn-sbox-yp-dal09-03.services.dal.bluemix.net",
+  "port": 50000,
+  "user": "",
+  "password": "",
+  "database": "bludb",
+  "schema": "pks49073"
+}

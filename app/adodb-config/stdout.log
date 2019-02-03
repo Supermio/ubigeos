@@ -1,0 +1,4 @@
+config file: C:\Users\Victor Manuel Pease\Documents\ubigeos\app\adodb-config\adodb-config.json
+opened server on {"address":"::","family":"IPv6","port":4023}
+New connection, address: ::1, port:63207 , family:  IPv6 , socketCount: 1
+Connection closed, had_error: false , open sockets: 0
