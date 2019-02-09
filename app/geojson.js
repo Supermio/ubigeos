@@ -7,6 +7,6 @@ fs.readFile(depJSON, 'utf8', function (err, data) {
   console.log(obj.features.length);
   for (var i=0, len = obj.features.length; i< len;i++){
     let feature = obj.features[i];
-    console.log(feature.properties.IDDIST)
+    console.log('distrito: ' + i + ' '+ JSON.stringify(feature.geometry));
   }
 });
